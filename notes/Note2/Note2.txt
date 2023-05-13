@@ -1,0 +1,11 @@
+Coisas para adicionar no jogo
+- GUI
+	- Mostrar quais buffs estão ativos
+	- Em vez de leveis ser Danger level
+	
+- Tiros
+	- Criar mais tipos de tiro, por tempo(Usar alarms)
+		- Tiro que ao se destruir, ira criar outros tiros menores que ira se espalhar.
+		- Tiro que ira imitar o tiro 3, só que mais rápido  e com mais tiros
+	- Criar um tiro carregado
+	

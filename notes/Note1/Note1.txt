@@ -1,0 +1,36 @@
+1 - Inicio de projeto
+	- Criando o player - Feito
+		- Importando a sprt-player - Feito
+	- Criando Viewport e ajuste de dimensões - Feito
+		- viewport : 1366x768
+	- Movendo o player com o WASD dentro do step - Feito
+2 - Mecanicas
+	- Mecanica de combate : Tiro - Feito
+	- Apertar espaço : Disparar tiro - Feito
+		- Efeito de encolhimento do tiro - Feito
+	- Combate inimigo : Disparo tiro - Feito
+	- Criando a função tiro
+	- Destruindo o inimigo e destruindo o player - Feitos
+	- Efeitos de hit - Feito // Correção do efeito do tiro // Remover efeito ao sair da room - Feito
+	- Efeito de glow dos tiros- feito
+	- Sistema de pontos
+	- Sistema de Lvl's
+	- Criar a quantidade de inimigos com base no level do jogo - Feito
+	- Criando os powers ups do jogador - 
+	- Criando sistema de tiro automatico - Feito
+	- Criando sistema de nivel do tiros - feito
+	- Sistema de poweups - Feito
+	- Sistema de escudo - Feito
+	- sistema de vida - Feito
+	- Screen shake
+3 - Inimigos
+	- Criando um inimigo - Feito
+	- Criando o segundo inimigo - feito
+	- Ajustando a mudança de posição do enemy_2 de acordo com a altura da room - feito
+	- Impedindo que os inimigos seja criados no mesmo lugar - Feito
+4 - Cenários
+	- Criando background - Feito
+5 - Ajustes
+	- Mascara de colisão - Feito
+	- Colisão do player - Feito
+	
